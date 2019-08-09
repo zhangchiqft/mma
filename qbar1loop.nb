@@ -65,7 +65,7 @@ Cell[BoxData[{
          RowBox[{
           RowBox[{"{", "y", "}"}], ",", "n", ",", "1"}], "]"}]}]}]}], 
      "}"}]}]}], ";"}], "\n", 
- RowBox[{
+
   RowBox[{"cyc", "=", 
    RowBox[{"{", 
     RowBox[{
